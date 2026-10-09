@@ -1,0 +1,33 @@
+# Smart Transit Network System
+
+CSE421 (Computer Networks) group project — BRAC University, Group 308.
+
+A smart transit network designed and simulated in Cisco Packet Tracer, covering VLSM subnetting, static and dynamic routing, router configuration and network services.
+
+## Contents
+
+| File | Description |
+|------|-------------|
+| `CSE421_project.pkt` | Cisco Packet Tracer project file |
+
+## Features
+
+- VLSM-based IP addressing
+- Static routing
+- Dynamic routing
+- Router and host configuration
+- Network services
+
+## How to Open
+
+1. Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
+2. Open `CSE421_project.pkt` in Packet Tracer.
+
+## Team (Group 308)
+
+| Student ID | Responsibility |
+|------------|----------------|
+| 24101007 | VLSM Tree and Special Conditions |
+| 24101234 | Dynamic Routing |
+| 24101656 | Static Routing Requirements and Topology Drawing |
+| 23241049 | Services and Router Configuration |
